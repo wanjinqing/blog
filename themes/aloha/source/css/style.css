@@ -1,0 +1,8 @@
+.three.wide.computer.tablet.column{
+    height: auto !important;
+}
+@media screen and (max-width:767px) {
+    .two.column.row > .three.wide.computer.tablet.column{
+        width: auto !important;
+    }
+}
