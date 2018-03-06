@@ -10,7 +10,7 @@ tags:
 1.浮点型:float(4byte),double(8byte)
 2.整型:byte(1byte),short(2byte),int(4byte),long(8byte)
 3.字符型:char(2byte)
-4.布尔型：char(2byte)
+4.布尔型：boolean（1/8 byte)
 
 ```
 
